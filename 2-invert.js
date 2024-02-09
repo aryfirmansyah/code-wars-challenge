@@ -1,4 +1,4 @@
-//code wars 5/90
+//code wars 6/90
 //https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 function invert(array) {
    let result = [];
